@@ -14,5 +14,6 @@ func main(){
 
 	fmt.Println(lang.TrBy("fa", "msg.wallet_created"))
 	fmt.Println(lang.TrBy("en", "msg.wallet_created"))
+	fmt.Println(lang.TrBy("fr", "msg.wallet_created"))
 
 }
